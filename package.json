@@ -1,0 +1,24 @@
+{
+  "name": "leetcode-chrome-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subramhanyam/LeetCode-Extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/subramhanyam/LeetCode-Extension/issues"
+  },
+  "homepage": "https://github.com/subramhanyam/LeetCode-Extension#readme",
+  "dependencies": {
+    "puppeteer": "^25.1.0"
+  }
+}
